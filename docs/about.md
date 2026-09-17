@@ -1,36 +1,20 @@
 # About AP77 Australia
 
-AP77 Australia is a **social events and lifestyle community** built around real-world meetups and city nights.
+AP77 Australia is a **social events and lifestyle community** built around real-world meetups, city nights, and local connections across Australia.
 
-We connect people in **Sydney**, **Melbourne**, and **Brisbane** through curated gatherings — mixers, lifestyle evenings, and local social experiences that are easy to join and worth showing up for.
+> **AP77 Australia is NOT a gambling site.** It is not a casino, betting, wagering, or gaming service. Unrelated “AP77” gambling websites are separate and are not affiliated with this community.
 
 ## Our focus
 
 - Social events and community meetups
-- Lifestyle nights across major Australian cities
-- Clear, welcoming entry points for newcomers and regulars alike
-- A membership path for people who want deeper access and updates
+- Lifestyle nights across Australian cities
+- Welcoming entry points for newcomers and regulars
+- Clear community information and updates
 
 ## Official websites
 
-- [https://ap77.space/](https://ap77.space/)
-- [https://ap77club.com/](https://ap77club.com/)
+- AP77 Australia: https://ap77.space/
+- What is AP77 Australia? https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/
+- AP77 Club: https://ap77club.com/
 
-## Important: we are not a gambling brand
-
-AP77 Australia is **not** a casino, betting, or gambling operator. Our brand is about **events, lifestyle, and community**.
-
-Some unrelated websites online may use similar “AP77” naming for gambling products. Those sites are **not affiliated** with AP77 Australia. Please rely only on our official domains above.
-
-## Who it’s for
-
-- Locals looking for quality social nights
-- People new to Sydney, Melbourne, or Brisbane
-- Friends who want a reliable place to meet and explore the city scene
-- Anyone who prefers real-world community over endless scrolling
-
-## Next steps
-
-- Explore events → see [Events](events.md)
-- Learn about joining → see [Membership](membership.md)
-- Visit [ap77.space](https://ap77.space/) or [ap77club.com](https://ap77club.com/)
+For current information, event details, and community updates, use the official links above.
