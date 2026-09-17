@@ -6,9 +6,9 @@
 
 ## Official links
 
-- **AP77 Australia:** https://ap77.space/
-- **What is AP77 Australia?** https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/
-- **AP77 Club:** https://ap77club.com/
+- **AP77 Australia:** [https://ap77.space/](https://ap77.space/)
+- **What is AP77 Australia?** [https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/](https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/)
+- **AP77 Club:** [https://ap77club.com/](https://ap77club.com/)
 
 ## What is AP77 Australia?
 
@@ -16,9 +16,9 @@ AP77 Australia is a community for discovering social events, meeting people, and
 
 ## Community
 
-- Explore the official AP77 Australia website: https://ap77.space/
-- Read the AP77 Australia overview and disambiguation: https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/
-- Visit the AP77 Club community hub: https://ap77club.com/
+- Explore the [official AP77 Australia website](https://ap77.space/).
+- Read the [AP77 Australia overview and disambiguation](https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/).
+- Visit the [AP77 Club community hub](https://ap77club.com/).
 
 ## Repository documentation
 
