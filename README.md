@@ -1,72 +1,29 @@
 # AP77 Australia
 
-**Social events & lifestyle community** — meetups, city nights, and local connection across Australia.
+**AP77 Australia is a social events and lifestyle community** for meetups, city nights, and local connections across Australia.
 
-> **Brand note:** This project is **AP77 Australia**, a social events and lifestyle community. It is **not** a casino, gambling, or betting brand. If you find unrelated “AP77” gambling sites online, those are separate entities and are not affiliated with us.
+> **Important:** AP77 Australia is **NOT a gambling site**. It is not a casino, betting, wagering, or gaming service. Any unrelated “AP77” gambling websites are separate and are not affiliated with this community.
 
-## Official sites
+## Official links
 
-- Website: [https://ap77.space/](https://ap77.space/)
-- Club / community hub: [https://ap77club.com/](https://ap77club.com/)
+- **AP77 Australia:** https://ap77.space/
+- **What is AP77 Australia?** https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/
+- **AP77 Club:** https://ap77club.com/
 
-## What is AP77?
+## What is AP77 Australia?
 
-AP77 is an Australia-focused social events and lifestyle community. We help people discover curated meetups, city nights, and local experiences — whether you’re new in town, reconnecting with friends, or simply looking for something worth doing this weekend.
+AP77 Australia is a community for discovering social events, meeting people, and finding lifestyle activities in Australian cities. Visit the official AP77 Australia site for current information, event details, and community updates.
 
-We focus on:
+## Community
 
-- Real-world meetups and social nights
-- Lifestyle and community experiences
-- Clear, welcoming city-based events
-- Easy pathways to join and stay in the loop
+- Explore the official AP77 Australia website: https://ap77.space/
+- Read the AP77 Australia overview and disambiguation: https://ap77.space/what-is-ap77-australia-social-community-not-a-gambling-site/
+- Visit the AP77 Club community hub: https://ap77club.com/
 
-## Cities
+## Repository documentation
 
-AP77 currently centres on three major Australian cities:
-
-| City | Focus |
-|------|--------|
-| **Sydney** | Harbour-side nights, social mixers, and lifestyle meetups |
-| **Melbourne** | Culture-forward gatherings and community evenings |
-| **Brisbane** | Warm, informal meetups and city socials |
-
-More local formats may roll out as the community grows.
-
-## How meetups work
-
-1. **Browse** upcoming events on [ap77.space](https://ap77.space/) or [ap77club.com](https://ap77club.com/).
-2. **Pick a city** — Sydney, Melbourne, or Brisbane.
-3. **Register / RSVP** through the official channels linked on those sites.
-4. **Show up** — meet people, enjoy the night, and become part of the local circle.
-
-Event formats vary (social mixers, lifestyle nights, themed gatherings). Always check the official listing for time, venue, and RSVP details.
-
-## Membership
-
-Want earlier access, member updates, and a clearer path into the community?
-
-- Visit the membership / club pages on [ap77club.com](https://ap77club.com/)
-- Or start from [ap77.space](https://ap77.space/) and follow the join / membership CTA
-
-Membership is about **community access and lifestyle events** — not gaming or wagering.
-
-## Disambiguation
-
-| This project | Not this |
-|--------------|----------|
-| AP77 Australia — social events & lifestyle | Unrelated casino / gambling sites that may reuse “AP77” |
-| Official: ap77.space · ap77club.com | Any third-party gambling or betting domain |
-
-Always use the official links above.
+- [Membership](docs/membership.md)
 
 ## Repository purpose
 
-This repository hosts public, free-platform friendly copy and docs for AP77 Australia (README, GitBook/GitHub Pages–ready pages, and an outreach checklist). It is intended for transparent community presence and legitimate discovery — not for spam or misleading SEO.
-
-## Licence / use
-
-Content here describes the AP77 Australia community brand. Please do not reuse this copy to promote gambling, casinos, or unrelated products.
-
----
-
-**Join the community:** [ap77.space](https://ap77.space/) · [ap77club.com](https://ap77club.com/)
+This repository provides public informational pages for the AP77 Australia social community and its GitHub Pages site. It does not operate gambling, betting, wagering, or casino services.
